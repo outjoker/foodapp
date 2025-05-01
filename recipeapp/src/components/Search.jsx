@@ -2,7 +2,7 @@ import { useEffect, useState } from "react"
 
 
 const apiUrl = "https://api.spoonacular.com/recipes/complexSearch"
-const apiKey = "5a8c2cbeff5f4e0eadff722a5c62928e"
+const apiKey = ""
 
 
 export default function Search({foodData, setFoodData}) {
